@@ -1,5 +1,5 @@
 /* Fira Code: https://github.com/tonsky/FiraCode */
-@import url(https://cdn.jsdelivr.net/npm/firacode@6.2.0/distr/fira_code.css);
+@import url(https://fonts.googleapis.com/css?family=Fira Code);
 
 :root {
   --background: #292929;
@@ -27,7 +27,7 @@ body {
   padding: 0;
   text-align: justify;
   font-family:
-    "FiraCode",
+    "Fira Code",
     monospace;
   font-size: var(--font-size);
   font-weight: 400;
